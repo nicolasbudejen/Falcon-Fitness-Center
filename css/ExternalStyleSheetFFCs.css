@@ -1,0 +1,33 @@
+body {
+		background-color: white; 
+		color: green; 
+		font-family: Times New Roman; 
+		font-size: 12pt;
+		text-align: center;
+		
+		}
+
+h1 {
+		background-color: white; 
+		color: green;
+		font-weight: 1000;
+		font-style: Arial, serif;
+		text-align: center;
+		font-style: oblique;
+	
+	}
+	h2 {
+		background-color: green; 
+		color: red;
+		font-weight: 1000;
+		font-style: Arial, serif;
+		text-align: left;
+		font-style:;
+	}
+	h3 {
+		background-color: red; 
+		color: green;
+		font-weight: 1000;
+		font-style: Arial, serif;
+		text-align: right;
+		font-style:;
